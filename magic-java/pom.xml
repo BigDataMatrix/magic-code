@@ -11,6 +11,8 @@
     <modules>
         <module>magic-callback</module>
         <module>magic-j8</module>
+        <module>magic-builder</module>
+        <module>magic-event</module>
     </modules>
 
     <properties>
