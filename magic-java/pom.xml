@@ -13,6 +13,7 @@
         <module>magic-j8</module>
         <module>magic-builder</module>
         <module>magic-event</module>
+        <module>promise</module>
     </modules>
 
     <properties>
