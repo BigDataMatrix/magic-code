@@ -14,6 +14,8 @@
         <module>magic-builder</module>
         <module>magic-event</module>
         <module>promise</module>
+        <module>disruptor</module>
+        <module>spring-disruptor</module>
     </modules>
 
     <properties>
