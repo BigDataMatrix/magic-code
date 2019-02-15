@@ -16,6 +16,8 @@
         <module>promise</module>
         <module>disruptor</module>
         <module>spring-disruptor</module>
+        <module>tiny-rpc</module>
+        <module>rpc-mesh</module>
     </modules>
 
     <properties>
