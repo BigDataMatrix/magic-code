@@ -15,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Executors;
 
-public class EtcdRegistry {
+public class EtcdRegistry implements IRegistry{
 
     private Logger logger = LoggerFactory.getLogger(EtcdRegistry.class);
     // 该EtcdRegistry没有使用etcd的Watch机制来监听etcd的事件
